@@ -22,7 +22,8 @@ namespace SistemKaryawan
 
         public void simpanKaryawan()
         {
-
+            this.id=TxtID.Text("");
+            nama
         }
         public void tampilKaryawan()
         {
