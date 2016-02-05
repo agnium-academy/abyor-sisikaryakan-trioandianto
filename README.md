@@ -1,10 +1,10 @@
-# abyor-sisikaryakan-trioandianto
-abyor-sisikaryakan-trioandianto created by Classroom for GitHub
 
-Nama Aplikasi : Sistem Informasi 
-Editor : Trio Andianto
-
-Objek : Karyawan
-
-Class Abstrac : Manager, SuperVisor, Staff
-Class Inheritance : ManagerDiling, ManagerRefinery
+    Nama Project: Students
+    Version 	: 1.0
+    Tanggal 	: 5 Februari 2016
+    Editor		: Trio Andianto
+    Deskripsi 	: Building Simple WEB APP Architecture with RESTful API
+    Development kit:
+        Visual Studio 2015
+        C# (Back-End)
+        ASP.NET (Front-End)
